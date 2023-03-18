@@ -1,4 +1,4 @@
-This program used to be a Folder locker with AES-256 Encryption(fake,just gimmick)
+This program used to be a Folder locker with AES-256 Encryption
 
 It looks cool ,so your friend will  ask ,how 
 
